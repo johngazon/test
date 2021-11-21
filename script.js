@@ -1,3 +1,3 @@
 const user = "John";
 
-alert(`привет, ${user}`);
+alert(`привет как ты, ${user}`);
